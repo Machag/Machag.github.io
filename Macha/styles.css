@@ -178,11 +178,14 @@ border-width: 0px;;
       position: absolute;
       height: 100px;
       display: inline-flex;
+      width: 800px;
+    
       
       
       
   }
   .bar {
+     
     cursor: pointer;
     height: 10px;
     width: 50px;
