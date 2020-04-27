@@ -514,6 +514,7 @@ border-width: 0px;;
 }
 .hh img{
     margin-top: 100px;
+    
     margin-left: 850px;
     border-radius: 30px;
     border-style: solid;
@@ -529,7 +530,7 @@ border-width: 0px;;
     background-color:rgba(139, 139, 139, 0.719);
    border-width: 0px;
     width: 1000px;
-    height: 250px;
+    height: 240px;
     margin-top: -240px;
     margin-left: 90px;
     font-size: 18px;
@@ -537,7 +538,7 @@ border-width: 0px;;
     
 }
 .hhh ul{
-   padding-top: 20px;
+   padding-top: 15px;
 }
 .hhh ul li{
    
