@@ -98,6 +98,9 @@ border-width: 0px;;
     color:rgb(0, 0, 0);
     cursor: default;
     font-weight: 20px;
+   height: 30px;
+   width: 500px; 
+   
 }
 .text1{
     font-variant: bold;
@@ -109,6 +112,7 @@ border-width: 0px;;
     font-weight: 20px;
     cursor: default;
     font-size: 20px;
+    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
     
@@ -172,6 +176,9 @@ border-width: 0px;;
       margin-left:470px ;
       margin-top: -50px;
       position: absolute;
+      
+      
+      
   }
   .bar {
     cursor: pointer;
@@ -928,6 +935,7 @@ border-width: 0px;;
  .tech{
     position: absolute;
     border-radius: 20px;
+    
     border-style: solid;
     border-color: white;
     background-color:rgba(139, 139, 139, 0.719);
@@ -938,7 +946,7 @@ border-width: 0px;;
     margin-top: 461px;
     margin-left: -3px;
     width:350px;
-    height:180px;
+    height:80%;
 }
 .tech img{
     margin-left:20px;
@@ -1017,7 +1025,7 @@ border-width: 0px;;
     margin-top: 461px;
     margin-left: 797px;
     width:350px;
-    height:180px;
+    height:80%;
 }
 .ms img{
     margin-left:20px;
@@ -1233,8 +1241,8 @@ border-width: 0px;;
 .ab5{
     border-radius:0px;
    
-    height:750px;
-    width:1205px;
+    height:90%;
+    width:100%;
     margin-left: -3px;
 }
 .ab5t1{
