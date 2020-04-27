@@ -177,7 +177,7 @@ border-width: 0px;;
       margin-top: -50px;
       position: absolute;
       height: 100px;
-      display: inline-block;
+      display: inline-flex;
       
       
       
@@ -566,7 +566,7 @@ border-width: 0px;;
     margin-top: 70px;
     margin-left: 25px;
     width:350px;
-    height:180px;
+   
 }
 .ess img{
     margin-left:20px;
@@ -1027,7 +1027,7 @@ border-width: 0px;;
     margin-top: 461px;
     margin-left: 797px;
     width:350px;
-    height:80%;
+  
 }
 .ms img{
     margin-left:20px;
@@ -1243,7 +1243,7 @@ border-width: 0px;;
 .ab5{
     border-radius:0px;
    
-    height:90%;
+    
     width:100%;
     margin-left: -3px;
 }
